@@ -48,6 +48,6 @@ Detach from the instance:
 
 ## Cleanup
 
-    docker volume rm myvol
+    st
     docker stop voltest
     docker rm voltest
