@@ -35,7 +35,7 @@ Let’s now create a node running BusyBox, this time attaching bash to our termi
 
     kubectl delete pod mybox
 
-## Create a pod using the declarative way
+## Create a pod using the declarative wayk
 
 Let’s now create a node using a YAML file.
 
